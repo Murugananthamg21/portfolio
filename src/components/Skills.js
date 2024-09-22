@@ -21,7 +21,7 @@ import Node_logo from "../assets/images/node-js.svg";
 import Mysql_list from "../assets/images/mysql.jpg";
 import Material_ui_list from "../assets/images/material-ui-icon-2048x1626-on580ia9.png";
 import Code_editor from "../assets/images/1688749943_vscode_story.jpg";
-import Git_logo from "../assets/images/68747470733a2f2f65787465726e616c2d636f6e74656e742e6475636b6475636b676f2e636f6d2f69752f3f753d687474707325334125324625324663616d6f2e716969746175736572636f6e74656e742e636f6d253246373466333761646265326366333032656464386.png";
+import Git_logo from "../assets/images/git_hub.png";
 
 const Skills = () => {
   const darkTheme = {
